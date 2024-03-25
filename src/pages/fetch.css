@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+.botao-geral{
+    width: 100%;
+    height: 91.7vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+.botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: solid 3px black;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.botaouni{
+    margin-bottom: 10px;
+}
