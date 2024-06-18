@@ -15,6 +15,8 @@ function Menu() {
             <Nav className="me-auto">
               <Nav.Link href="/">Gatos</Nav.Link>
               <Nav.Link href="/onep">One Piece</Nav.Link>
+              <Nav.Link href="/pokemon">Pokemon</Nav.Link>
+
               <NavDropdown title="Mais..." id="basic-nav-dropdown">
                 <NavDropdown.Item href="#action/3.1">Ação 1</NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.2">Ação 2</NavDropdown.Item>
